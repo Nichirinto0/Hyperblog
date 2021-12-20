@@ -41,6 +41,13 @@ body
     margin: 0 auto;
 }
 
+#container #Jefe
+{
+    width: 70%;
+    padding: 0;
+    text-align: center;
+}
+
 #container h1
 {
     font-size: 20px;
